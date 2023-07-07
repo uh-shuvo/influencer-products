@@ -1,0 +1,12 @@
+body {}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.head-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
