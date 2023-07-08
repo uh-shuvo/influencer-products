@@ -50,6 +50,15 @@ body {}
     margin-bottom: 25px;
 }
 
+.btn {
+    border: none;
+    padding: 4px 14px;
+    border-radius: 30px;
+    background-color: #E02C6D;
+    color: white;
+    font-weight: bold;
+}
+
 .banner-img {
     background-image: url(images/Circle\ design.svg);
     background-position: center;
