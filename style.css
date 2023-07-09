@@ -128,10 +128,20 @@ body {}
 
 .blog-price {
     font-size: 23px;
+    line-height: 12px;
+}
+
+.blog-ratings {
+    line-height: 18px;
 }
 
 .blog-ratings i {
     font-size: 10px;
     margin: 0;
-    line-height: 2px;
+    color: #FB8200;
+}
+
+.rating {
+    font-size: 16px;
+    font-weight: bold;
 }
