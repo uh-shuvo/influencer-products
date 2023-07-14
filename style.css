@@ -158,3 +158,45 @@ body {}
     color: #E02C6D;
     font-size: 16px;
 }
+
+/* feature section 
+================== */
+.feature-container {
+    width: 810px;
+    margin: 0 auto;
+}
+
+.features-bottom {
+    margin-top: 50px;
+}
+
+.features {
+    display: flex;
+    grid-column-gap: 60px;
+}
+
+.feature img {
+    width: 320px;
+    height: 200px;
+}
+
+.feature-name {
+    font-size: 30px;
+    font-weight: 700;
+    color: #0A0826;
+}
+
+.feature-blog {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #6C6C6C;
+}
+
+.btn2 {
+    border: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 3px;
+    background-color: #E02C6D;
+    color: white;
+}
