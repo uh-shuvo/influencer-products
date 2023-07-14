@@ -186,7 +186,12 @@ body {}
     color: #0A0826;
 }
 
+.feature-desk {
+    margin-top: 30px;
+}
+
 .feature-blog {
+    margin-top: 20px;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -194,9 +199,26 @@ body {}
 }
 
 .btn2 {
+    margin-top: 10px;
     border: none;
     padding: 5px 15px 5px 15px;
     border-radius: 3px;
     background-color: #E02C6D;
     color: white;
+}
+
+/* footer start 
+================ */
+footer {
+    margin-top: 60px;
+    background-color: black;
+}
+
+* {
+    margin: 0;
+}
+
+.footer-bottom {
+    color: white;
+    text-align: center;
 }
