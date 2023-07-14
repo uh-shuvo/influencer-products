@@ -109,6 +109,7 @@ body {}
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
 .blogs {
@@ -131,7 +132,7 @@ body {}
 
 .blog-name {
     font-size: 24px;
-    line-height: 10px;
+    line-height: 50px;
 }
 
 .blog-price {
@@ -140,7 +141,8 @@ body {}
 }
 
 .blog-ratings {
-    line-height: 18px;
+    line-height: 21px;
+    margin-top: 15px;
 }
 
 .blog-ratings i {
