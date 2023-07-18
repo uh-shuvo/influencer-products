@@ -97,6 +97,12 @@ body {}
         font-size: 39px;
         line-height: 50px;
         color: #3A3A3A;
+        padding: 20px;
+    }
+
+    .btn {
+        font-size: 30px;
+        padding: 18px 39px;
     }
 }
 
@@ -123,6 +129,18 @@ body {}
     align-items: center;
     text-align: center;
     margin-left: 35px;
+}
+
+/* log media start 
+=================== */
+@media screen and (max-width:500px) {
+    .logo-container {
+        width: 550px;
+        text-align: center;
+        margin-left: 80px;
+        line-height: 50px;
+        font-size: 130px;
+    }
 }
 
 /* blogs section start 
